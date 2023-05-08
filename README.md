@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Antonio Martínez Martínez</h1>
-<h3 align="center">A passionate Full Stack developer from Spain</h3>
+<h3 align="center">A passionate Junior developer from Spain</h3>
 
 - 🔭 I’m currently studying [Management and development of cross-platform applications](https://www.seas.es/informatica/master-gestion-desarrollo-aplicaciones-multiplataforma)
 
